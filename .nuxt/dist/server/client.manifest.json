@@ -1,0 +1,10 @@
+{
+  "publicPath": "",
+  "all": [],
+  "initial": [
+    "client.js"
+  ],
+  "async": [],
+  "modules": {},
+  "assetsMapping": {}
+}
