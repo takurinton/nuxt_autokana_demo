@@ -1,7 +1,10 @@
 {
   "private": true,
   "scripts": {
+    "serve": "npm run build && npm start", 
     "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
     "post-update": "yarn upgrade --latest"
   },
   "devDependencies": {
